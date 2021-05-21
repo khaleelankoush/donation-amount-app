@@ -11,14 +11,14 @@
 
         <h1>60.550 $</h1>
 
-        <!--
+        
         <input id="content" type="text">
 
         <h2 id="content-live"></h2>
-        -->
+        
 
 
 
-        <!-- <script src="index.js"></script> -->
+        <script src="index.js"></script>
     </body>
 </html>
