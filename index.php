@@ -9,7 +9,7 @@
 
 
 
-        <h1>60.000 $</h1>
+        <h1>60.500 $</h1>
 
         <!--
         <input id="content" type="text">
